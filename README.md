@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JayantBansal900/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/JayantBansal900/DSA/tree/master/0042-trapping-rain-water) |
+| [0217-contains-duplicate](https://github.com/JayantBansal900/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/JayantBansal900/DSA/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/JayantBansal900/DSA/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/JayantBansal900/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -52,5 +53,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/JayantBansal900/DSA/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/JayantBansal900/DSA/tree/master/0977-squares-of-a-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/JayantBansal900/DSA/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
