@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JayantBansal900/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/JayantBansal900/DSA/tree/master/0042-trapping-rain-water) |
+| [0283-move-zeroes](https://github.com/JayantBansal900/DSA/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/JayantBansal900/DSA/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/JayantBansal900/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/JayantBansal900/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JayantBansal900/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/JayantBansal900/DSA/tree/master/0042-trapping-rain-water) |
+| [0283-move-zeroes](https://github.com/JayantBansal900/DSA/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/JayantBansal900/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
