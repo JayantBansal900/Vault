@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JayantBansal900/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/JayantBansal900/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/JayantBansal900/DSA/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/JayantBansal900/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/JayantBansal900/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/JayantBansal900/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/JayantBansal900/DSA/tree/master/0283-move-zeroes) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/JayantBansal900/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/JayantBansal900/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/JayantBansal900/DSA/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/JayantBansal900/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/JayantBansal900/DSA/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/JayantBansal900/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0038-count-and-say](https://github.com/JayantBansal900/DSA/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/JayantBansal900/DSA/tree/master/0125-valid-palindrome) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/JayantBansal900/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
