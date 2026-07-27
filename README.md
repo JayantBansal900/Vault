@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/JayantBansal900/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/JayantBansal900/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/JayantBansal900/DSA/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/JayantBansal900/DSA/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JayantBansal900/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/JayantBansal900/DSA/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/JayantBansal900/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/JayantBansal900/DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/JayantBansal900/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/JayantBansal900/DSA/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/JayantBansal900/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/JayantBansal900/DSA/tree/master/0011-container-with-most-water) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/JayantBansal900/DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
