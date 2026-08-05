@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/JayantBansal900/DSA/tree/master/0042-trapping-rain-water) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/JayantBansal900/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0038-count-and-say](https://github.com/JayantBansal900/DSA/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/JayantBansal900/DSA/tree/master/0125-valid-palindrome) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/JayantBansal900/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Binary Search
 |  |
 | ------- |
