@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/JayantBansal900/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/JayantBansal900/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/JayantBansal900/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/JayantBansal900/DSA/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/JayantBansal900/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/JayantBansal900/DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/JayantBansal900/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/JayantBansal900/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/JayantBansal900/DSA/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/JayantBansal900/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0038-count-and-say](https://github.com/JayantBansal900/DSA/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/JayantBansal900/DSA/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/JayantBansal900/DSA/tree/master/0242-valid-anagram) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/JayantBansal900/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/JayantBansal900/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Binary Search
