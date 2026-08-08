@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/JayantBansal900/DSA/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/JayantBansal900/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/JayantBansal900/DSA/tree/master/0724-find-pivot-index) |
+| [0946-validate-stack-sequences](https://github.com/JayantBansal900/DSA/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/JayantBansal900/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/JayantBansal900/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/JayantBansal900/DSA/tree/master/2428-maximum-sum-of-an-hourglass) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/JayantBansal900/DSA/tree/master/0042-trapping-rain-water) |
+| [0946-validate-stack-sequences](https://github.com/JayantBansal900/DSA/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/JayantBansal900/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/JayantBansal900/DSA/tree/master/2428-maximum-sum-of-an-hourglass) |
+## Simulation
+|  |
+| ------- |
+| [0946-validate-stack-sequences](https://github.com/JayantBansal900/DSA/tree/master/0946-validate-stack-sequences) |
 <!---LeetCode Topics End-->
