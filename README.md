@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/JayantBansal900/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/JayantBansal900/DSA/tree/master/0509-fibonacci-number) |
+| [1903-largest-odd-number-in-string](https://github.com/JayantBansal900/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/JayantBansal900/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/JayantBansal900/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/JayantBansal900/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1903-largest-odd-number-in-string](https://github.com/JayantBansal900/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/JayantBansal900/DSA/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/JayantBansal900/DSA/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/JayantBansal900/DSA/tree/master/0680-valid-palindrome-ii) |
+| [1903-largest-odd-number-in-string](https://github.com/JayantBansal900/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Linked List
 |  |
 | ------- |
