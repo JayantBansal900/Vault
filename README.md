@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/JayantBansal900/DSA/tree/master/0042-trapping-rain-water) |
 | [0946-validate-stack-sequences](https://github.com/JayantBansal900/DSA/tree/master/0946-validate-stack-sequences) |
+| [1021-remove-outermost-parentheses](https://github.com/JayantBansal900/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/JayantBansal900/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/JayantBansal900/DSA/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/JayantBansal900/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/JayantBansal900/DSA/tree/master/0680-valid-palindrome-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/JayantBansal900/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/JayantBansal900/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Binary Search
 |  |
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/JayantBansal900/DSA/tree/master/0946-validate-stack-sequences) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/JayantBansal900/DSA/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
