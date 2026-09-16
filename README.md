@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/JayantBansal900/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/JayantBansal900/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/JayantBansal900/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0686-repeated-string-match](https://github.com/JayantBansal900/DSA/tree/master/0686-repeated-string-match) |
 | [1021-remove-outermost-parentheses](https://github.com/JayantBansal900/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/JayantBansal900/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/JayantBansal900/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -180,4 +181,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/JayantBansal900/DSA/tree/master/0005-longest-palindromic-substring) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/JayantBansal900/DSA/tree/master/0686-repeated-string-match) |
+## Z Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/JayantBansal900/DSA/tree/master/0686-repeated-string-match) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/JayantBansal900/DSA/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/JayantBansal900/DSA/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
