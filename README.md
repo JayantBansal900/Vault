@@ -205,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JayantBansal900/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/JayantBansal900/DSA/tree/master/0686-repeated-string-match) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/JayantBansal900/DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
