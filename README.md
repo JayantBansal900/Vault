@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/JayantBansal900/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/JayantBansal900/DSA/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [3524-find-x-value-of-array-i](https://github.com/JayantBansal900/DSA/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/JayantBansal900/DSA/tree/master/3525-find-x-value-of-array-ii) |
 | [3693-climbing-stairs-ii](https://github.com/JayantBansal900/DSA/tree/master/3693-climbing-stairs-ii) |
 ## Two Pointers
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/JayantBansal900/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/JayantBansal900/DSA/tree/master/1922-count-good-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/JayantBansal900/DSA/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/JayantBansal900/DSA/tree/master/3525-find-x-value-of-array-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -291,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/JayantBansal900/DSA/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/JayantBansal900/DSA/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/JayantBansal900/DSA/tree/master/0226-invert-binary-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/JayantBansal900/DSA/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
