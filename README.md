@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/JayantBansal900/DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/JayantBansal900/DSA/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/JayantBansal900/DSA/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/JayantBansal900/DSA/tree/master/0678-valid-parenthesis-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/JayantBansal900/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/JayantBansal900/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3693-climbing-stairs-ii](https://github.com/JayantBansal900/DSA/tree/master/3693-climbing-stairs-ii) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/JayantBansal900/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/JayantBansal900/DSA/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/JayantBansal900/DSA/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/JayantBansal900/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0946-validate-stack-sequences](https://github.com/JayantBansal900/DSA/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/JayantBansal900/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/JayantBansal900/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/JayantBansal900/DSA/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/JayantBansal900/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/JayantBansal900/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0678-valid-parenthesis-string](https://github.com/JayantBansal900/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/JayantBansal900/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/JayantBansal900/DSA/tree/master/0686-repeated-string-match) |
 | [1021-remove-outermost-parentheses](https://github.com/JayantBansal900/DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/JayantBansal900/DSA/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/JayantBansal900/DSA/tree/master/0055-jump-game) |
+| [0678-valid-parenthesis-string](https://github.com/JayantBansal900/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/JayantBansal900/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1903-largest-odd-number-in-string](https://github.com/JayantBansal900/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Linked List
@@ -240,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/JayantBansal900/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/JayantBansal900/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/JayantBansal900/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/JayantBansal900/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/JayantBansal900/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/JayantBansal900/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/JayantBansal900/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
