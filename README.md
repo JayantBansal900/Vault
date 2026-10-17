@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/JayantBansal900/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/JayantBansal900/DSA/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/JayantBansal900/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/JayantBansal900/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3693-climbing-stairs-ii](https://github.com/JayantBansal900/DSA/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/JayantBansal900/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/JayantBansal900/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/JayantBansal900/DSA/tree/master/1096-brace-expansion-ii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/JayantBansal900/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/JayantBansal900/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/JayantBansal900/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/JayantBansal900/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/JayantBansal900/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/JayantBansal900/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/JayantBansal900/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
