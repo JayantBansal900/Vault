@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/JayantBansal900/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/JayantBansal900/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/JayantBansal900/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/JayantBansal900/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/JayantBansal900/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/JayantBansal900/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/JayantBansal900/DSA/tree/master/2428-maximum-sum-of-an-hourglass) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/JayantBansal900/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0977-squares-of-a-sorted-array](https://github.com/JayantBansal900/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/JayantBansal900/DSA/tree/master/1096-brace-expansion-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/JayantBansal900/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/JayantBansal900/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/JayantBansal900/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/JayantBansal900/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JayantBansal900/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/JayantBansal900/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/JayantBansal900/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/JayantBansal900/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Greedy
 |  |
