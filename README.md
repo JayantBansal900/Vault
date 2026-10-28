@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/JayantBansal900/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3693-climbing-stairs-ii](https://github.com/JayantBansal900/DSA/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/JayantBansal900/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/JayantBansal900/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/JayantBansal900/DSA/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/JayantBansal900/DSA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Two Pointers
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/JayantBansal900/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/JayantBansal900/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3693-climbing-stairs-ii](https://github.com/JayantBansal900/DSA/tree/master/3693-climbing-stairs-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/JayantBansal900/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/JayantBansal900/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/JayantBansal900/DSA/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/JayantBansal900/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/JayantBansal900/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/JayantBansal900/DSA/tree/master/0078-subsets) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/JayantBansal900/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/JayantBansal900/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/JayantBansal900/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Geometry
 |  |
 | ------- |
