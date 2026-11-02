@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/JayantBansal900/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/JayantBansal900/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/JayantBansal900/DSA/tree/master/0283-move-zeroes) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/JayantBansal900/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/JayantBansal900/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/JayantBansal900/DSA/tree/master/0724-find-pivot-index) |
 | [0946-validate-stack-sequences](https://github.com/JayantBansal900/DSA/tree/master/0946-validate-stack-sequences) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/JayantBansal900/DSA/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/JayantBansal900/DSA/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/JayantBansal900/DSA/tree/master/0070-climbing-stairs) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/JayantBansal900/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/JayantBansal900/DSA/tree/master/0509-fibonacci-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/JayantBansal900/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/JayantBansal900/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/JayantBansal900/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JayantBansal900/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/JayantBansal900/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/JayantBansal900/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/JayantBansal900/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/JayantBansal900/DSA/tree/master/1096-brace-expansion-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/JayantBansal900/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
